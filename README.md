@@ -1,5 +1,10 @@
 # RhinoE4XDemo
 
+**Stack:** Java, Rhino, E4X
+
+**Skills:** Embedded scripting, XML processing
+
+
 Sample project showing the usage of Rhino and E4X working together to manipulate xml and run js code.
 Just import it and your should be able to run the samples. 
 Two types of samples there
@@ -12,4 +17,3 @@ Refer following urls to explore more
  * https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Rhino/Documentation
  * https://developer.mozilla.org/en-US/docs/Archive/Web/E4X/Processing_XML_with_E4X
  * http://docs.oracle.com/javase/6/docs/technotes/guides/scripting/programmer_guide/
- 
